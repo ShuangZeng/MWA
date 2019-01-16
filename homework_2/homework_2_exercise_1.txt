@@ -1,0 +1,17 @@
+Q1
+SetTimeout use red-black tree, O(log(n)). 
+SetImmediate is O(1).
+So when we want more efficiency we use setImmediate instead of setTimeout.
+Q2
+Process.nextTick has higher priority than setImmediate. Process.netTick is micro task. setImmediate is task.
+Q3
+1. assert
+2. buffer
+3. cluster
+4. dns
+5. fs
+6. domain
+7. https
+8. net
+9. os
+10. querystring
