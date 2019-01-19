@@ -1,7 +1,7 @@
-const http = require('http')
-const { fork } = require('child_process')
+const http = require('http');
+const { fork } = require('child_process');
 const url = require('url');
-const path = require('path')
+const path = require('path');
 
 
 http.createServer().on('request', (req, res) => {
