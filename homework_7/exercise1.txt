@@ -1,0 +1,14 @@
+{
+isbn : '',
+author:[ ],
+keyword:[ ],
+availability:'',
+borrowed_by : {
+	_id: '',
+	name: ''},
+{
+	_id: '',
+	name: '',
+ },
+return_date: ''
+}

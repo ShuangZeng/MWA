@@ -1,0 +1,16 @@
+{
+  "name": "homework7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "homework_7_exercise2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.0"
+  }
+}
