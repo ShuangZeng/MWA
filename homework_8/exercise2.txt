@@ -1,0 +1,1 @@
+We can create index of books so that we can keep track of the book status better.
