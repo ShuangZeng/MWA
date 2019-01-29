@@ -1,0 +1,5 @@
+<app-counter-component [value]="counterValue" [message]="message"
+                                    [componentCounterValue] ="componentCounterValue"
+                                    (counterChange)="childData($event)">
+</app-counter-component>
+<p>The Value is : {{componentCounterValue}}</p>
